@@ -1,0 +1,2 @@
+# Duplicate_PDF
+We have two files in current date's folder on which we need to build this solution, File A - Master excel  file has hyperlinks till yesterday, File B has fresh Hyperlinks of today, Hyperlinks in both file are unique but pdf on those hyperlinks may have duplicate content, we need to identify unique with in File B then we need to identify if those  unique  pdf already exist in master file , if yes we need to pick only uniuqe
